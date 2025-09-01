@@ -16,8 +16,8 @@ An end-to-end **Student Count Analysis Project** using **SQL** for data preproce
 
 ## 📘 Project Overview
 The analysis focuses on:
-- % of students in **depression**  
-- % of students under **financial stress**  
+- Count of students in **depression**  
+- Count of students under **financial stress**  
 - **Study hours distribution** across students  
 - Correlation between **mental health & academics**  
 
