@@ -1,6 +1,5 @@
 # SQL-Tableau-Project---Student-Count-Analysis
-An end-to-end **Student Count Analysis Project** using **SQL** for data preprocessing and **Tableau** for interactive visualization.  
-The project highlights the relationship between student demographics, mental health, and academic efforts.
+An end-to-end **Student Count Analysis Project** using **SQL** for data preprocessing and **Tableau** for interactive visualization. The project highlights the relationship between student demographics, mental health, and academic efforts.
 
 ---
 
@@ -63,7 +62,9 @@ Interactive Tableau dashboard link:
 ---
 
 ## 📸 Dashboard Images
-![Dashboard Snapshot 1](./04_Images/1.png)  
+![Dashboard Snapshot 1](./04_Images/1.png) 
+
+
 ![Dashboard Snapshot 2](./04_Images/2.png)  
 
 ---
